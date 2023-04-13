@@ -1,2 +1,3 @@
-# AI-Project-facerecognition
-reference: https://www.youtube.com/watch?v=LKispFFQ5GU&ab_channel=NicholasRenotte
+# AI-Project
+Flappy-bird.
+Face Recognisaton.
